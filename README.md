@@ -10,9 +10,6 @@ An Express.js-based API that serves inspirational quotes with full support for:
 
 ---
 
-## 🚀 Live Example
-
-> Coming soon: Deploy it on [Render](https://render.com) or [Railway](https://railway.app) and drop the link here.
 
 ---
 
@@ -40,13 +37,7 @@ npm run dev
 
 ---
 
-## 🔐 Environment Variables
 
-Create a `.env` file based on the template:
-
-```env
-PORT=5000
-```
 
 ---
 
@@ -136,28 +127,8 @@ npm run dev
 
 ---
 
-## 🛑 .gitignore
 
-```
-node_modules/
-.env
-```
 
----
-
-## 🌍 How to Deploy to GitHub
-
-1. Create a new repo on GitHub (e.g., `quotes-api`)
-2. Run these commands:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/yourusername/quotes-api.git
-git branch -M main
-git push -u origin main
-```
 
 ---
 
